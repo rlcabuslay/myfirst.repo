@@ -8,6 +8,14 @@ public static void main(String[] args){
 }
 ```
 
+```python
+print("Hello World")
+```
+
+```ssh
+$ ls -l
+```
+
 ## System ID
 
 ## Description

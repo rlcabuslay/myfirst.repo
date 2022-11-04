@@ -16,6 +16,12 @@ print("Hello World")
 $ ls -l
 ```
 
+```javascript
+function sayHello() {
+    alert("Hello World");
+}
+```
+
 ## System ID
 
 ## Description
